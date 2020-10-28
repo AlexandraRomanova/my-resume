@@ -80,11 +80,11 @@ body {
 
 /* COMMON */
 .tablet-element {
-  display: none !important;
+  display: none;
 }
 
 .desktop-element {
-  display: none !important;
+  display: none;
 }
 
 .mobile-element {
@@ -1057,7 +1057,7 @@ c
   }
 
   .tablet-element {
-    display: block !important;
+    display: block;
   }
 
   .swiper-container {
@@ -1303,11 +1303,11 @@ c
   }
 
   .tablet-element {
-    display: none !important;
+    display: none;
   }
 
   .desktop-element {
-    display: block !important;
+    display: block;
   }
 
   .swiper-container {
